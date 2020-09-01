@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.education {
+    border: 1px solid #ddd;
+    width: 600px;
+    height: 433px;
+    margin: auto;
+    border-radius: 7px;
+    padding: 8px;
+    box-shadow: 1px 1px 7px 1px;
+    margin-top: 10px;
+}
+.logo{
+    display: flex;
+}
+.logo img {
+    
+    background: #eee;
+    width: 135px;
+    padding: 17px 29px;
+    border-radius: 5px 0 0 5px;
+}
+.header-right {
+    background: #007814 url(Image/banner_flag.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 41px;
+    background-position-x: right;
+    padding: 5px;
+}
+.header-right h2 {
+    color: #74e374f5;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    letter-spacing: 1.02px;
+    margin-top: 9px;
+}
+.line h2{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
